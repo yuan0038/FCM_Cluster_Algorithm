@@ -12,9 +12,7 @@
 
 
 # Image Segmentation
-<img src="./results_figs/Mai_sakurajima.jpg" alt="Image 1" style="display:inline; width:45%;">
-<img src="image2_url" alt="Image 2" style="display:inline; width:45%;">
-| ![Image 1](./results_figs/Mai_sakurajima.jpg) | ![Image 2](./results_figs/图片分割（2类）.png) |![Image 2](./results_figs/图片分割（2类）1.png) |![Image 2](./results_figs/图片分割（4类）.png) |
-|-------------------------|-------------------------|-------------------------|-------------------------|
-| *原图*   | *二类*   |*二类1*   |*四类*   |
+<img src="./results_figs/Mai_sakurajima.jpg" alt="Image 1" style="display:inline; width:25%;"><img src="./results_figs/seg2.jpg" alt="Image 2" style="display:inline; width:25%;"><img src="./results_figs/seg2_1.png" alt="Image 3" style="display:inline; width:25%;"><img src="./results_figs/seg4.png" alt="Image 4" style="display:inline; width:25%;">
+
+
 
