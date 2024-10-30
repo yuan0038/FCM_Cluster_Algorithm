@@ -8,12 +8,11 @@
 # Cluster Results
 | ![Image 1](./results_figs/散点图.png) | ![Image 2](./results_figs/散点图聚类结果.png) |
 |-------------------------|-------------------------|
-| *Image 1 Description*   | *Image 2 Description*   |
-<img src="./results_figs/散点图.png" alt="Image 1" style="display:inline; width:45%;">
-<img src="./results_figs/散点图聚类结果.png" alt="Image 2" style="display:inline; width:45%;">
+| *聚类前散点图*   | *聚类后散点图*   |
+
 
 # Image Segmentation
-<img src="./results_figs/Mai_sakurajima.jpg" alt="Image 1" style="display:inline; width:20%;height:45%">
-<img src="./results_figs/图片分割（2分类）.png" alt="Image 2" style="display:inline; width:20%;">
-<img src="./results_figs/图片分割（2分类）1.png" alt="Image 2" style="display:inline; width:20%;">
-<img src="./results_figs/图片分割（4分类）.png" alt="Image 2" style="display:inline; width:20%;">
+| ![Image 1](./results_figs/Mai_sakurajima.jpg) | ![Image 2](./results_figs/图片分割（2类）.png) |![Image 2](./results_figs/图片分割（2类）1.png) |![Image 2](./results_figs/图片分割（4类）.png) |
+|-------------------------|-------------------------|-------------------------|-------------------------|
+| *原图*   | *二类*   |*二类1*   |*四类*   |
+
