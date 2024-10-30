@@ -6,6 +6,9 @@
 
 **如果你觉得这个项目对你有帮助，请给我一个 Star或者在CSDN点个赞，这将是对我最大的鼓励，也能让更多有需要的人看见！谢谢！~🌹**
 # Cluster Results
+| ![Image 1](./results_figs/散点图.png) | ![Image 2](./results_figs/散点图聚类结果.png) |
+|-------------------------|-------------------------|
+| *Image 1 Description*   | *Image 2 Description*   |
 <img src="./results_figs/散点图.png" alt="Image 1" style="display:inline; width:45%;">
 <img src="./results_figs/散点图聚类结果.png" alt="Image 2" style="display:inline; width:45%;">
 
